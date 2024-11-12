@@ -6,3 +6,5 @@ Changelog:
 2.Fixed ridiculous bugs.
 
 Note: Don't forget it's fake.
+
+另外，你无需支付任何费用！
